@@ -1,16 +1,12 @@
-<!-- Don't remove this --- https://github.com/ombharatiya -->
+<!-- Don't remove this --- https://github.com/oreznichalex -->
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
 <!-- icons  -->
 
-[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
-[4.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
-[5.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
-[6.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
+[1.1]: https://github.com/reznichalex/reznichalex/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
+
 
 <!-- links to my social media accounts -->
 
@@ -32,18 +28,15 @@
 # ❤ to Build - Software Engineer & Enthusiast!
 
 
-Hi, I'm Om — a **software engineer** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+Hi, I'm Alex — a **data engineer** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
 
 <!-- section - intro -->
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
+[![linkedin reznichalex][1.1]][1]
+[![github reznichalex][2.1]][2]
+
 
 <!-- section - social media icons -->
 
@@ -53,25 +46,21 @@ Hi, I'm Om — a **software engineer** building some real stuff through code & b
 
 ## I work on .. 💻
 
-Java Spring Boot . Django . React.js . Microservices . Docker . AWS Services
-
-DynamoDB . Postgresql . MongoDB . Redis . Prometheus
-
-Java . Python . GoLang . JavaScript . C++
+Django . Postgresql . MongoDB . Python . 
 
 <!-- section - skills -->
 
 <!-- section - job details -->
 
-## On the job .. 💯
+## On the job .. 
 
-> Software Development Engineer - [**Swiggy**](https://bytes.swiggy.com/)  ⭐
+> ______ - [**Swiggy**](https://bytes.____.com/)  ⭐
 
-> Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐
+> ______ - [**HashedIn**](https://___.com)  ⭐
 
-> Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)
+> ______ - [**Microsoft**](https://_____.___.com/en-us)
 
-> Software Development & Research Engineer Intern - [**ISRO**](https://www.isro.gov.in)
+> S_______ - [**ISRO**](https://www.___.___.in)
 
 
 <!-- section - job details -->
@@ -95,55 +84,17 @@ Java . Python . GoLang . JavaScript . C++
 
 ## Check my blogs & posts .. ✨
 
-- [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
-
-- [When to choose NoSQL over SQL?](https://dev.to/ombharatiya/when-to-choose-nosql-over-sql-536p)
-
-- [Dockerize Django PostgreSQL — Simple Set-Up using Docker Compose](https://medium.com/@ombharatiya/dockerize-django-postgresql-simple-docker-compose-set-up-ombharatiya-13026aa142c3)
-
-- [Failure Story behind the Demo-2 launch mission of SpaceX cc Elon Musk](https://www.linkedin.com/posts/activity-6672761818504679424-y1Cf)
-
-- [Lightsabers Problem - Hashing](https://medium.com/@ombharatiya/lightsabers-problem-hashing-programming-in-c-b546c6f5331a)
-
-- [Why Java in the name of JavaScript](https://www.linkedin.com/posts/activity-6674171656325468160-u48L)
-
-- [₹ 1.5 Crore worth resources to students by GitHub](https://www.linkedin.com/posts/activity-6669904120138350592-U1wQ)
-
-- [Heros of Chandrayaan-2 Launch Mission ISRO](https://www.linkedin.com/posts/activity-6559739007759151104-jbOu)
-
-- [A blog on Microsoft AI bot Ruuh](https://medium.com/datadriveninvestor/can-an-ai-bot-be-my-girlfriend-a-blog-on-our-desi-ai-chatbot-ruuh-39b9c98c93a1)
-
-<!-- section - blogs -->
-
-## How To Make a Similar Home Page for your GitHub ? 😎
-
-1. Fork this repo.
-
-2. Edit the README.md file with your info.
-
-3. Rename your repo to your github username in settings tab.(for example my username is ombharatiya)
-
-4. You made it!
-
-Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff. 
-
-More details are on this blog link: [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
 
 
-
-
-## Thank you and Namaste! 🙏
+## Thank you ! 🙏
 
 Thanks for reading about me. You can connect with me on ..
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
+[![linkedin _______][1.1]][1]
+[![github ________][2.1]][2]
+
 
 <!-- section - social media icons -->
 
