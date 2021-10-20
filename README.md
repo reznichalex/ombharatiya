@@ -1,4 +1,4 @@
-<!-- Don't remove this --- https://github.com/oreznichalex -->
+<!-- Don't remove this --- https://github.com/reznichalex -->
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -17,7 +17,7 @@
 [5]: https://stackoverflow.com/users/8454203/om-bharatiya
 [6]: http://dev.to/ombharatiya
 
-<!-- Don't remove this --- https://github.com/ombharatiya -->
+<!-- Don't remove this --- https://github.com/reznichalex -->
 
 
 
